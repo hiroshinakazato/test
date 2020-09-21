@@ -1,9 +1,2 @@
-@charset "UTF-8";
-body{
-  background-color: #ccc
-}
-
-h1{
-  color:red;
-  font-size: 45px
-}
+body{background-color:#ccc}h1{color:red;font-size:45px}h2{color:yellow;background-color:#f00;font-size:36px}section{padding:50px}section h3{border:3px #000 solid;padding:20px;color:#f00}section p{background-color:#333;color:#fff}
+/*# sourceMappingURL=style.css.map */
